@@ -1,7 +1,7 @@
 body
 {
     background: #1e1f24;
-    color: #333;
+    color: #DDD;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -32,6 +32,8 @@ body
 
 #container
 {
+    background: #DDD;
+    color: #333;
     width: 70%;
     padding: 1em;
     text-align: left;
